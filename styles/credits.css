@@ -34,60 +34,60 @@ p {
 
 /*SLIDEYS*/
 .left1{
-	background-image:url("../images/capture.png") !important;
+	background-image:url("/images/capture.png") !important;
     background-size: cover;
 }
 .left2{
-	background-image:url("../images/grey.png") !important;
+	background-image:url("/images/grey.png") !important;
     background-size: cover;
 }
 .left3{
-	background-image:url("../images/cecile.jpg") !important;
+	background-image:url("/images/cecile.jpg") !important;
     background-size: cover;
 }
 .left4{
-    background-image:url("../images/grey.png") !important;
+    background-image:url("/images/grey.png") !important;
     background-size: cover;
 }
 .left5{
-    background-image:url("../images/hana.jpg") !important;
+    background-image:url("/images/hana.jpg") !important;
     background-size: cover;
 }
 .left6{
-    background-image:url("../images/grey.png") !important;
+    background-image:url("/images/grey.png") !important;
     background-size: cover;
 }
 .left7{
-    background-image:url("../images/trevor.jpg") !important;
+    background-image:url("/images/trevor.jpg") !important;
     background-size: cover;
 }
 
 /*SLIDEYS*/
 .right1{
-	background-image:url("../images/grey.png") !important;
+	background-image:url("/images/grey.png") !important;
     background-size: cover;
 }
 .right2{
-	background-image:url("../images/shesher.png") !important;
+	background-image:url("/images/shesher.png") !important;
     background-size: cover;
 }
 .right3{
-	background-image:url("../images/grey.png") !important;
+	background-image:url("/images/grey.png") !important;
     background-size: cover;
 }
 .right4{
-    background-image:url("../images/ashley.jpg") !important;
+    background-image:url("/images/ashley.jpg") !important;
     background-size: cover;
 }
 .right5{
-    background-image:url("../images/grey.png") !important;
+    background-image:url("/images/grey.png") !important;
     background-size: cover;
 }
 .right6{
-    background-image:url("../images/alex.png") !important;
+    background-image:url("/images/alex.png") !important;
     background-size: cover;
 }
 .right7{
-    background-image:url("../images/grey.png") !important;
+    background-image:url("/images/grey.png") !important;
     background-size: cover;
 }
